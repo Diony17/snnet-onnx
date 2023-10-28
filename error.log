@@ -1,0 +1,5 @@
+/usr/bin/ld: cannot find -lonnxruntime
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/snnet-onnx.dir/build.make:97: snnet-onnx] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/snnet-onnx.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
